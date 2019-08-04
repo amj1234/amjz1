@@ -1,0 +1,47 @@
+1. function name follow variable rules like:
+	Not start with Numbers.
+	Not start with symbols and symbols not used in fuction name.
+	space not allowed.
+	_ (under score) only allow in function name in start , middle or end.
+
+2. Remember function body format (indent).
+
+3. function use for reduce code and function perform same step multiple time.
+
+4. For calling function write name of function, after name of function insert paranthesis. 
+
+5. calling fuction before define fuction cause error
+
+6. when user create function and insert variables in paranthesis variables called parameters.
+
+7. when user call function and insert values in parathesis called arguments.
+
+8. when user use values in calling function is called positional arguments.
+	positional arguments place by order
+
+9. when user use variables/key words in calling function is called keyword argumnets 
+	key word agrguments take place according to key word order dosen't matter.
+
+10. when user create a function and insert 2 parameters. 1st paramenter empty or 2nd perameter have default value. After creating function
+user call the function only insert 1st argument and skip default value argument.
+
+11. when user create a function and insert 2 parameters, 1st parameter empty or 2nd parameter have default value. After creating function user
+call the function with 2 arguments second argument overwrite on defualt parameter value.
+
+12. Only key word parameters have default value positional parameters can't have default value.
+
+13. when user not know how many arguments used in function use double starik (**) and use general arguments.
+
+14. argument with double starik store multiple information with all types of data.
+
+15. double starik arguments store multiple data in form of dic.
+
+16. in function when user use arguments with double starik. for print double starik argument use for loop with key.
+
+17 double starik arguments always insert in last.
+
+18  user insert optional arguments in function with single starik (*).
+
+
+
+
